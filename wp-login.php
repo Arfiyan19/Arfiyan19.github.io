@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; it-consulting &#8212; WordPress</title>
+	<title>Log In &lsaquo; juna-consulting &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="https://arfiyan19.github.io/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://arfiyan19.github.io/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
@@ -11,7 +11,11 @@
 <link rel="stylesheet" id="login-css" href="https://arfiyan19.github.io/wp-admin/css/login.min.css?ver=6.1.1" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://arfiyan19.github.io/wp-content/uploads/2023/01/I-removebg-preview-edited-150x150.png" sizes="32x32">
+<link rel="icon" href="https://arfiyan19.github.io/wp-content/uploads/2023/01/I-removebg-preview-edited.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://arfiyan19.github.io/wp-content/uploads/2023/01/I-removebg-preview-edited.png">
+<meta name="msapplication-TileImage" content="https://arfiyan19.github.io/wp-content/uploads/2023/01/I-removebg-preview-edited.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
 		<div id="login">
@@ -41,16 +45,16 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://arfiyan19.github.io/wp-login.php?action=lostpassword">Lost your password?</a>			</p>
+				<a href="https://arfiyan19.github.io/wp-login.php?action=register">Register</a> | <a href="https://arfiyan19.github.io/wp-login.php?action=lostpassword">Lost your password?</a>			</p>
 					<script type="text/javascript">function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="https://arfiyan19.github.io/">&larr; Go to it-consulting</a>		</p>
+			<a href="https://arfiyan19.github.io/">&larr; Go to juna-consulting</a>		</p>
 			</div>
 			<script src="https://arfiyan19.github.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
 <script src="https://arfiyan19.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"http:\/\/localhost\/wordpress\/wp-includes\/js\/zxcvbn.min.js"};</script>
+<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"https:\/\/arfiyan19.github.io\/wp-includes\/js\/zxcvbn.min.js"};</script>
 <script src="https://arfiyan19.github.io/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="https://arfiyan19.github.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
 <script src="https://arfiyan19.github.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
@@ -64,7 +68,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://arfiyan19.github.io/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://arfiyan19.github.io/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"3f52ff4c78"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"b3de5f3c87"};</script>
 <script src="https://arfiyan19.github.io/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
